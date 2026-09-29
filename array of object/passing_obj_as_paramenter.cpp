@@ -29,7 +29,7 @@ xyz s,s1;
 s.read();
 s1.read();
 
-cout<<"displaying by the passing the obj to fn "<<endl;
+cout<<"displaying by the passng the obj to fn "<<endl;
 
 s1.display(s1); /* we can use s1 and s to call the fn it will give same value and will work until we pass the same object*/
 
