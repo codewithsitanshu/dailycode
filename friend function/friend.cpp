@@ -41,7 +41,7 @@ using namespace std;
 class demo {
 int a;
 
-public :
+private :
 friend void example(demo);//mistake 2:here also pass the object
 };
 
